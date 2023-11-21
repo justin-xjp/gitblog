@@ -11,9 +11,10 @@ on:
       - master
     paths:
       - main.py
-env:    # 这两项更改为自己的配置
-GITHUB_NAME: justin-xjp
-GITHUB_EMAIL: x_jianp@outlook.com
+#env:    # 这两项更改为自己的配置
+#GITHUB_NAME: justin-xjp
+#GITHUB_EMAIL: x_jianp@outlook.com
+
 jobs:
   sync:
     name: Generate README
