@@ -12,8 +12,8 @@ on:
     paths:
       - main.py
 #env:    # 这两项更改为自己的配置
-#GITHUB_NAME: justin-xjp
-#GITHUB_EMAIL: x_jianp@outlook.com
+GITHUB_NAME: justin-xjp
+GITHUB_EMAIL: x_jianp@outlook.com
 
 jobs:
   sync:
